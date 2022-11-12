@@ -30,4 +30,4 @@ links_cnt – number of links
 
 emoji_cnt – number of emoji. 
 
-Using this data, you we needed to predict the number of publications in each 250x250 meter polygon for each hour 4 weeks (28 days) ahead of the last publication in the training set. 
+Using this data, we needed to predict the number of publications in each 250x250 meter polygon for each hour 4 weeks (28 days) ahead of the last publication in the training set. 
